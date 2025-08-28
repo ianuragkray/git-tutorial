@@ -82,8 +82,8 @@ you can clone the repo using command.The **.git** folder will created in the fol
    ```
 **Commands to revert the commit**
    ```sh
-   git reset --soft HEAD ~n //To keep the changes
-   git reset --hard HEAD ~n //To delete the changes do not want to keep it.
+   git reset --soft HEAD~n //To keep the changes
+   git reset --hard HEAD~n //To delete the changes do not want to keep it.
    ```
 ***Command to see all the commit**
    ```sh
